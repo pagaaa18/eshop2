@@ -1,4 +1,4 @@
-##Periexomena tou arxeiou
+## Periexomena tou arxeiou
 
 - `client.c`: o kyrios kwdikas tou pelati
 - `server.c`: o kyrios kwdikas tou server
